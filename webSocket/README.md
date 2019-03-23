@@ -1,5 +1,6 @@
 ## socket server and client
  <p> POST /login, can login through rest server
+ 
  ```javascript
  // request body
  {
@@ -13,6 +14,7 @@
     "token": "xxxx"
 }
 ```
+
 code | Description
 ------|------------
 200  | success.
