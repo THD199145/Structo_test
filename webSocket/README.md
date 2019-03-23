@@ -25,7 +25,8 @@ code | Description
 
 ## Run the server:
 <p>1 npm install
-<p>2 npm start(product environment) or npm run dev(convenient debugging for development environment) will run rest api server and web socket server.
+<p>2 npm start(product environment) or npm run dev(convenient debugging for development environment) 
+<p>Rest api and socket server will run after npm start or npm run dev.
 <p>3 npm run client(start socket client and login to rest server and send message to socket server)
 
 # Run test
